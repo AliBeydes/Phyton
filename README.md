@@ -1,0 +1,2 @@
+# Phyton
+Kişiye Özel
